@@ -5,7 +5,7 @@ let noarr:number[] = [1,2,3,4,5,6,7,8,9,10,11,12]
 
 function render(document:any){
 }
- let user:[number, string] = [3,"bob", ]
+ let user2:[number, string] = [3,"bob", ]
 
  const enum Size {Small, Medium, Large};
 
